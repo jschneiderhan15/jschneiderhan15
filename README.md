@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi! I'm currently a sophomore computer science student attending Stevens Institute of Technology.
 
-<!--
-**jschneiderhan15/jschneiderhan15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My repositories are mainly composed of classwork and extra programming I've done outside of class. 
 
-Here are some ideas to get you started:
+The languages that I have past experience in are:
+- Java
+- Python
+- C++
+- HTML, CSS, and JS
+- Racket / Scheme
+- Some Assembly (in the form of LEGV8).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In addition to coding, I'm big into video games and love painting! 
