@@ -1,4 +1,4 @@
-Hi! I'm currently a junior computer science student attending Stevens Institute of Technology.
+Hi! I'm currently a senior computer science student attending Stevens Institute of Technology.
 
 My repositories are mainly composed of classwork and extra programming I've done outside of class. 
 
